@@ -303,7 +303,13 @@ body {
     text-decoration: none;
   }
   
-  .food-imgs .foods :hover {
+  /*.food-imgs .foods :hover {
+    box-shadow: 2px 2px 2px 2px grey;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 20px;
+  }*/
+.food-containner:hover{
     box-shadow: 2px 2px 2px 2px grey;
     text-decoration: none;
     cursor: pointer;
