@@ -309,7 +309,7 @@ body {
     cursor: pointer;
     border-radius: 20px;
   }*/
-.food-container:hover{
+  .food-container :hover{
     box-shadow: 2px 2px 2px 2px grey;
     text-decoration: none;
     cursor: pointer;
